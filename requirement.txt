@@ -1,0 +1,7 @@
+robotframework
+robotframework-seleniumlibrary
+robotframework-databaselibrary
+robotframework-requests
+requests
+pyyaml
+SwingLibrary

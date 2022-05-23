@@ -1,0 +1,6 @@
+small_letters: 'antigen test'
+cap_letters: 'ANTIGEN TEST'
+small_n_cap: ' Antigen Test'
+spec_letters: 'HIP BIOtech COVID-19 (SARS-CoV-2) Antigen Test Kit (Saliva Specimen) 15 Test (1Test/Box)'
+invalid_item: 'testabcdefg'
+sug_word: 'antigen'
